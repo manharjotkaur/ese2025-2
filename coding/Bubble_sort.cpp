@@ -17,8 +17,6 @@ int main(int argc, char const *argv[])
 
  printVector(a);
 
-
-
 }
 
 void bubbleSort(vector<int>& a)
