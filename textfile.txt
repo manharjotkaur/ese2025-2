@@ -1,0 +1,8 @@
+total 3796
+drwxr-xr-x 2 darshan darshan    4096 Jun 19 10:07 coding
+drwxrwxrwx 3 root    root       4096 Jun  4 22:37 HW-2
+-rw-r--r-- 1 darshan darshan    1071 May 29 12:28 LICENSE
+-rw-r--r-- 1 darshan darshan      63 May 29 12:28 README.md
+-rw-r--r-- 1 darshan darshan 3864785 Jul 16 21:45 sample.txt
+-rw-r--r-- 1 darshan darshan     287 Jul 16 21:29 tempfile.txt
+-rw-r--r-- 1 darshan darshan       0 Jul 16 23:05 textfile.txt
