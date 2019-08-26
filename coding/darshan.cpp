@@ -1,5 +1,4 @@
 //Find Squre root 
-//Darshan Mistry
 
 #include <iostream>
 #include <cmath>
