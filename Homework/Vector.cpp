@@ -1,5 +1,4 @@
-//Darshan Mistry....
-//Programm for vector string...
+//vector string..
 
 
 #include <iostream>
