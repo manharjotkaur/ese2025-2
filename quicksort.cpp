@@ -1,5 +1,5 @@
-//Darshan mistry
-//Quick sorting.
+//Darshan mistry.
+//Quick sorting
 
 #include <iostream>
 #include <string>
