@@ -1,4 +1,3 @@
-//Darshan Mistry.
 //pointer Arithmetic.
 
 #include <bits/stdc++.h> 
