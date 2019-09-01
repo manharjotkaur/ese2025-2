@@ -1,4 +1,4 @@
-// C++ code to implementaion of  iterator, begin() and end() 
+ 
 
 #include<iostream> 
 #include<iterator> // Define iterators 
