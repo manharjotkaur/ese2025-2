@@ -1,4 +1,3 @@
-//Bubble sort .....
 
 #include <stdio.h>
  
