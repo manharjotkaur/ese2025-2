@@ -1,4 +1,3 @@
-//Darshan Mistry.....
 
 #include<iostream>
 
