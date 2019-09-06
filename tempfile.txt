@@ -1,4 +1,3 @@
-
 total 16
 drwxr-xr-x 2 darshan darshan 4096 Jun 12 12:20 coding
 drwxrwxrwx 3 root    root    4096 Jun  4 22:37 HW-2
