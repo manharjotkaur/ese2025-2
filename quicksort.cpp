@@ -1,4 +1,3 @@
-
 //Quick sorting
 
 #include <iostream>
