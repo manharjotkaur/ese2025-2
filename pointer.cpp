@@ -1,4 +1,4 @@
-//pointer Arithmetic.
+//Pointer Arithmetic
 
 #include <bits/stdc++.h> 
 using namespace std; 
