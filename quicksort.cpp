@@ -1,5 +1,4 @@
-
-//Quick sorting
+/Quick sorting
 
 #include <iostream>
 #include <string>
