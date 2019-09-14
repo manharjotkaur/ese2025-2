@@ -1,4 +1,3 @@
-//Find Squre root 
 
 #include <iostream>
 #include <cmath>
