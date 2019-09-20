@@ -1,5 +1,4 @@
 //vector format...
-
 #include<iostream>
 #include<vector>
 #include<algorithm>
