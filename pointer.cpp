@@ -1,3 +1,4 @@
+
 //Pointer Arithmetic
 
 #include <bits/stdc++.h> 
