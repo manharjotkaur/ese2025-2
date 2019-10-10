@@ -3,7 +3,6 @@
 #include <string>
 #include <map>
 #include <iterator>
-
 using namespace std;
 
 struct word_rec_t {
