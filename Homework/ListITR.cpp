@@ -1,7 +1,8 @@
 #include<iostream> 
 #include<iterator> 
 // Define iterators 
-#include<vector> // Define vectors 
+#include<vector> 
+// Define vectors 
 
 using namespace std; 
 int main() 
