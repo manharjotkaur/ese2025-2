@@ -22,7 +22,7 @@ void POINT()
     } 
 } 
   
-//Driver program 
+//Driver program for running
 int main() 
 { 
     POINT(); 
