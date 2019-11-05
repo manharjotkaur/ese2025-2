@@ -1,4 +1,5 @@
 // Arrays Logic
+// Manharjot Kaur
 
 #include <iostream>
 using namespace std;
